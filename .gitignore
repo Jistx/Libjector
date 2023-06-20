@@ -1,0 +1,16 @@
+# environment files
+.vs/
+.idea/
+
+# output files
+bin/
+obj/
+
+# user files
+*.user
+*.suo
+
+# miscellaneous files
+.DS_Store
+Desktop.ini
+Thumbs.db
