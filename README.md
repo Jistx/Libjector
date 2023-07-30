@@ -29,4 +29,3 @@ A simple and easy-to-use DLL injector!
 ![](docs/0.gif)
 ![](docs/1.png)
 ![](docs/2.png)
-
